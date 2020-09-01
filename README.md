@@ -1,6 +1,7 @@
 # Robot_Kinematics_Animations
  Some animations written with P5.js web editor to demonstrate algebraic solution to Inverse and forward kinematics
 
-link to live animation of 3DOF planar robot: https://editor.p5js.org/AJAbanto/embed/s92ZFmHIy
+view git page with animations here: https://ajabanto.github.io/Robot_Kinematics_Animations/
 
+<iframe src="https://editor.p5js.org/AJAbanto/embed/s92ZFmHIy"></iframe>
 <iframe src="https://editor.p5js.org/AJAbanto/embed/CYU0R9R9_"></iframe>
