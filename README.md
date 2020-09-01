@@ -3,5 +3,5 @@
 
 view git page with animations here: https://ajabanto.github.io/Robot_Kinematics_Animations/
 
-<iframe src="https://editor.p5js.org/AJAbanto/embed/s92ZFmHIy"></iframe>
-<iframe src="https://editor.p5js.org/AJAbanto/embed/CYU0R9R9_"></iframe>
+<iframe  src="https://editor.p5js.org/AJAbanto/embed/s92ZFmHIy"></iframe> </br>
+<iframe src="https://editor.p5js.org/AJAbanto/embed/CYU0R9R9_" width="450" height="450" ></iframe>
